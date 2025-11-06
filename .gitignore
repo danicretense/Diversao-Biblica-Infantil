@@ -1,0 +1,8 @@
+# Ferramentas de build do Tailwind (não vão para o site)
+tailwindcss.exe
+tailwind-input.css
+tailwind.config.js
+css/tailwind-input.css
+
+# Arquivos de configuração do Node.js (só para desenvolvimento)
+package.json
